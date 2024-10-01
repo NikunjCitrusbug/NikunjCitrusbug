@@ -26,7 +26,7 @@ I'm committed to continuous learning and staying updated with the latest trends 
 
 I've had the privilege of working on several exciting projects. Here are a couple of highlights:
 
-1. **Project 1**:
+1. **Voyage Control**:
    Let me share my experience in the Delivery & Vehicle Management system with more than 10 million bookings. We upgraded the system from Angular JS to Angular 10. Created new custom components and integrated the pixel-perfect responsive UI from the Figma designs. It provides a platform with the below features
 
     - User, Customer & Role, and Access management
